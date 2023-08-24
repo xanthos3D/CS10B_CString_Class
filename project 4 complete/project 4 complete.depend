@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1588812480 source:e:\project 4\project 4 files\project 4 complete\mystring.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<fstream>
+	<cassert>
+	<cctype>
+	<string>
+	"mystring.h"
+
+1588817940 e:\project 4\project 4 files\project 4 complete\mystring.h
+	<iostream>
+
+1588812564 source:e:\project 4\project 4 files\project 4 complete\client.cpp
+	"mystring.h"
+	<fstream>
+	<cctype>
+	<string>
+	<cassert>
+	<iostream>
+

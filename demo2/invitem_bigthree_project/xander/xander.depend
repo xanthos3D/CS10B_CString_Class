@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1588271722 source:e:\project 4\demo2\invitem_bigthree_project\invitem.cpp
+	<iostream>
+	<cassert>
+	<cstring>
+	"invitem.h"
+
+1588272518 e:\project 4\demo2\invitem_bigthree_project\invitem.h
+	<iostream>
+
+1588272428 source:e:\project 4\demo2\invitem_bigthree_project\invitemtest.cpp
+	<iostream>
+	"invitem.h"
+	<fstream>
+	<cassert>
+
